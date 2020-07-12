@@ -1,1 +1,1 @@
-![Alt Text](https://github.com/adityasharan01/adityasharan01/blob/master/github%20intro.gif)
+![Alt Text](https://github.com/adityasharan01/adityasharan01/blob/master/github%20intro%20final.gif)
