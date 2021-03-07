@@ -5,13 +5,15 @@
   <a href="mailto:ranjan.aditya2009@gmail.com?subject=Hello%20AdityaSharan,%20From%20Github"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 
-![Alt Text](https://github.com/adityasharan01/adityasharan01/blob/master/github%20intro%20final.gif)
+ ![Alt Text](https://github.com/adityasharan01/adityasharan01/blob/master/github%20intro%20final.gif)
  
+<img src = "https://github-readme-stats.vercel.app/api?username=adityasharan01&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515" >
+ 
+ 
+- 🔭 I’m currently working at Finastra Software Solutions,Bengaluru.
+- 🌱 I’m currently learning Java Spring boot and React.js
+- 👯 I’m looking to collaborate on projects with frontend projects.
 
-🔭 I’m currently working at Finastra Software Solutions,Bengaluru.
-🌱 I’m currently learning Java Spring boot and React.js
-👯 I’m looking to collaborate on projects with frontend projects.
-🤔 I’m looking for help with retrofit and room.
 📫 How to reach me: Gmail - ranjan.aditya2009@gmail.com , Instagram - @adityasharan01
 
 
