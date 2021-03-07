@@ -7,9 +7,8 @@
 
  ![Alt Text](https://github.com/adityasharan01/adityasharan01/blob/master/github%20intro%20final.gif)
  
-<img src = "https://github-readme-stats.vercel.app/api?username=adityasharan01&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515" >
- 
- 
+<img src = "https://github-readme-stats.vercel.app/api?username=adityasharan01&hide=stars,prs,issues&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515" >
+
 - 🔭 I’m currently working at Finastra Software Solutions,Bengaluru.
 - 🌱 I’m currently learning Java Spring boot and React.js
 - 👯 I’m looking to collaborate on projects with frontend projects.
