@@ -11,7 +11,8 @@
 
 - 🔭 I’m currently working at Finastra Software Solutions,Bengaluru.
 - 🌱 I’m currently learning Java Spring boot and React.js
-- 👯 I’m looking to collaborate on projects with frontend projects.
+- 👯 I’m looking to collaborate on frontend projects.
+- 📌 You can check out my repositories on which i have worked on by clicking this [link](https://github.com/adityasharan01?tab=repositories)
 
 📫 How to reach me: Gmail - ranjan.aditya2009@gmail.com , Instagram - @adityasharan01
 
