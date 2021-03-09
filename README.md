@@ -1,4 +1,4 @@
-### Hi There
+# Hi There 😎!
 
 <p align="center">
   <a target="_blank"href="https://www.linkedin.com/in/aditya-sharan/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
