@@ -10,7 +10,7 @@
 <img src = "https://github-readme-stats.vercel.app/api?username=adityasharan01&hide=stars,prs,issues&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515" >
 
 - 🔭 I’m currently working at Finastra Software Solutions,Bengaluru.
-- 🌱 I’m currently learning React.js and Java Spring Boot.
+- 🌱 I’m currently learning React.js and Node.js.
 - 👯 I’m looking to collaborate on frontend projects.
 - 📌 You can check out my repositories on which i have worked on by clicking this [link](https://github.com/adityasharan01?tab=repositories)
 
