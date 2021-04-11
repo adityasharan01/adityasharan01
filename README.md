@@ -14,7 +14,7 @@
 - 👯 I’m looking to collaborate on frontend projects.
 - 📌 You can check out my repositories on which i have worked on by clicking this [link](https://github.com/adityasharan01?tab=repositories)
 
-📫 How to reach me: Gmail - ranjan.aditya2009@gmail.com , Instagram - @adityasharan01
+📫 How to reach me: Gmail - [Link](mailto:ranjan.aditya2009@gmail.com) , Instagram - [https://www.instagram.com/adityasharan811/](@adityasharan01)
 
 
 
