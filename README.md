@@ -10,8 +10,11 @@
   <a target="_blank"href="https://www.linkedin.com/in/aditya-sharan/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="mailto:ranjan.aditya2009@gmail.com?subject=Hello%20AdityaSharan,%20From%20Github"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
+<p align="center">
+  <img src="https://github.com/adityasharan01/adityasharan01/blob/master/github%20intro%20final.gif" alt="Sublime's custom image"/>
+</p>
 
-<p> ![Alt Text](https://github.com/adityasharan01/adityasharan01/blob/master/github%20intro%20final.gif) </p>
+![Alt Text](https://github.com/adityasharan01/adityasharan01/blob/master/github%20intro%20final.gif)
 <p align="center"> 
 <img src = "https://github-readme-stats.vercel.app/api?username=adityasharan01&hide=stars,prs,issues&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515" >
 </p>
