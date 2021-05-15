@@ -1,5 +1,10 @@
 # Hi There 😎!
 
+
+<p align="center">
+<img src="https://user-images.githubusercontent.com/46247882/87126810-77e5d000-c2aa-11ea-832f-70aa4fe394f9.gif" alt="alt text" width="150" height="150" />
+</p>
+
 <p align="center">
   <a target="_blank"href="https://www.linkedin.com/in/aditya-sharan/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="mailto:ranjan.aditya2009@gmail.com?subject=Hello%20AdityaSharan,%20From%20Github"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
