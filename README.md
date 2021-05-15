@@ -16,17 +16,15 @@
 <p align="center"> 
 <img src = "https://github-readme-stats.vercel.app/api?username=adityasharan01&hide=stars,prs,issues&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515" >
 </p>
-<p align="center"> </p>
 
-<p align="center">🔭 I’m currently working at Finastra Software Solutions,Bengaluru. </p>
+🔭 I’m currently working at Finastra Software Solutions,Bengaluru.
 
-<p align="center">🌱 I’m currently learning React.js and Node.js. </p>
+🌱 I’m currently learning React.js and Node.js. 
  
-<p align="center"> 👯 I’m looking to collaborate on frontend projects.</p>
+👯 I’m looking to collaborate on frontend projects.
 
-<p align="center"> - 📌 You can check out my repositories on which i have worked on by clicking this [link](https://github.com/adityasharan01?tab=repositories) </p>
+ 📌 You can check out my repositories on which i have worked on by clicking this [link](https://github.com/adityasharan01?tab=repositories) 
 
 📫 How to reach me: Gmail - [Link](mailto:ranjan.aditya2009@gmail.com) , Instagram - [@adityasharan01](https://www.instagram.com/adityasharan811/)
-</p>
 
 
