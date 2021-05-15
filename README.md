@@ -11,7 +11,7 @@
   <a href="mailto:ranjan.aditya2009@gmail.com?subject=Hello%20AdityaSharan,%20From%20Github"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 
- ![Alt Text](https://github.com/adityasharan01/adityasharan01/blob/master/github%20intro%20final.gif)
+<p> ![Alt Text](https://github.com/adityasharan01/adityasharan01/blob/master/github%20intro%20final.gif) </p>
 <p align="center"> 
 <img src = "https://github-readme-stats.vercel.app/api?username=adityasharan01&hide=stars,prs,issues&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515" >
 </p>
