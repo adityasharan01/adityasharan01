@@ -23,5 +23,9 @@
 
 📫 How to reach me: Gmail - [Link](mailto:ranjan.aditya2009@gmail.com) , Instagram - [@adityasharan01](https://www.instagram.com/adityasharan811/)
 
-
+## My Blogs
+<p align="center">
+ &nbsp;&nbsp;
+<a href="https://dev.to/mr_victor"><img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white"/></a> 
+</p>
 
