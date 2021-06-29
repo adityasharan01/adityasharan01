@@ -1,11 +1,13 @@
 </br>
 <h2 align="center">  Hello World 👋🌎! </h2>
 <p align="center">
-  
+ &nbsp;&nbsp;
 <a href="https://dev.to/adityasharan01"><img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white"/></a>
 &nbsp;&nbsp;
-  <a target="_blank"href="https://www.linkedin.com/in/aditya-sharan/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-&nbsp;&nbsp;&nbsp;&nbsp;
+  <a target="_blank" href="https://www.linkedin.com/in/aditya-sharan/">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+   </a>
+&nbsp;&nbsp;
   <a href="mailto:ranjan.aditya2009@gmail.com?subject=Hello%20AdityaSharan,%20From%20Github"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 
   <img src="https://github.com/adityasharan01/adityasharan01/blob/master/github%20intro%20final.gif" alt="Sublime's custom image"/>
