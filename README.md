@@ -3,7 +3,7 @@
 <p align="center">
  &nbsp;&nbsp;
 <a href="https://dev.to/adityasharan01"><img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white"/></a>
-&nbsp;&nbsp;
+&nbsp;&nbsp; 
   <a target="_blank" href="https://www.linkedin.com/in/aditya-sharan/">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
    </a>
@@ -30,7 +30,7 @@
 ### 🛠 &nbsp;My skills 🚀
 
 
-<p align="center">
+  <p align="center">
 
 ![](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
