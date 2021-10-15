@@ -1,5 +1,6 @@
 </br>
 <h2 align="center"> Hello World 👋🌎! </h2>
+<p align="left"> <img src=https://komarev.com/ghpvc/?username=adityasharan01 alt=adityasharan/> </p>
 <p align="center">
  &nbsp;&nbsp;
 <a href="https://dev.to/adityasharan01"><img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white"/></a>
