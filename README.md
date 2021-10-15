@@ -18,7 +18,7 @@
 <img src = "https://github-readme-stats.vercel.app/api?username=adityasharan01&hide=stars,prs,issues&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515" >
 </p>
 
-🔭 I’m currently working at Finastra Software Solutions,Bengaluru.
+🔭 I’m currently serving notice period at Finastra Software Solutions,Bengaluru and exploring new opportunities.
 
 🌱 I’m currently learning React.js and Node.js. 
  
