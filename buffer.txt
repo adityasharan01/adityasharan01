@@ -1,0 +1,7 @@
+Publicis Sapient 
+Key responsibilities:
+- Planning, development, and testing of UI component
+- Development and testing of very generic react components
+- Accessibility implementation of Web applications
+- API development and integration with UI component
+- Monitoring of web applications performance
