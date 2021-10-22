@@ -5,3 +5,27 @@ Key responsibilities:
 - Accessibility implementation of Web applications
 - API development and integration with UI component
 - Monitoring of web applications performance
+
+
+
+
+Office Leave message
+Hi, Thank you for your message. I am on PTO on 10/21 and 10/22. I have limited email access while I am away. If you need immediate assistance, call or text me on my mobile +91 99723 70127. Otherwise, I will respond to your email when I return.  Thanks, Muralisk (Murali Siripurapu) Expert Technical Writer
+
+
+Hi Renjith/Latha,
+I write to inform you that I am submitting my resignation from my position here as Associate Software Engineer as on 1-Oct-2021. I have submitted my resignation in Workday tool. 
+Thank you so much for all of the opportunities.
+Finastra has provided me. I joined as a fresher and the team was so welcoming and supportive during my entire working tenure.I have learned a lot in past 1.5 years
+Regards,
+	Aditya Sharan
+	Associate Software Engineer,
+Corporate Banking,
+	M: +91 9097739666
+	E:  AdityaRanjan.Sharan@finastra.com 
+
+	FINASTRA 4th, 5th & 6th Floor, North Block, Virgo Building, Bagmane Constellation Business Park, 2870, Outer Ring Road, Doddanekundi Circle, Marathahalli Post, Bangalore 560037
+	finastra.co
+	        
+
+
