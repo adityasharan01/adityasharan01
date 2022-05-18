@@ -16,9 +16,7 @@
   
   <img src="https://user-images.githubusercontent.com/46247882/87126810-77e5d000-c2aa-11ea-832f-70aa4fe394f9.gif" alt="alt text" width="150" height="150" />
 </p>
-<p align="center"> 
-<img src = "https://github-readme-stats.vercel.app/api?username=adityasharan01&hide=stars,prs,issues&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515" >
-</p>
+
 
 🔭 I’m currently exploring new opportunities.
 
