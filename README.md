@@ -1,4 +1,4 @@
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Aditya Sharan </h1>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" height="40px">, I'm Aditya Sharan </h1>
 </br>
 <h2 align="center"> 👨‍💻 Front End Developer | | Transitioning into Fullstack development 🌎 </h2>
 <p align="left"> <img src=https://komarev.com/ghpvc/?username=adityasharan01 alt=adityasharan/> </p>
