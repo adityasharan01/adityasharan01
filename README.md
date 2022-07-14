@@ -1,4 +1,5 @@
 <p align="center">
+
   <img src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/Developer.gif" width="200px">
 </p>
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" height="40px">, I'm Aditya Sharan </h1>
@@ -29,7 +30,9 @@
 
  📌 You can check out my repositories on which i have worked on by clicking this [link](https://github.com/adityasharan01?tab=repositories) 
 
-📫 How to reach me: Gmail - [Link](mailto:ranjan.aditya2009@gmail.com) , Instagram - [@adityasharan01](https://www.instagram.com/adityasharan811/)
+📫 How to reach me: Gmail - [Link](mailto:ranjan.aditya2009@gmail.com) , 
+LinkedIn - <div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="aditya-sharan" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://in.linkedin.com/in/aditya-sharan?trk=profile-badge">Aditya Sharan</a></div>
+  
 ### 🛠 &nbsp;My skills 🚀
 
 
@@ -59,4 +62,5 @@
 ![connect-with-me.png](./connect-with-me.png.png)
 
 [twitter]: https://twitter.com/AdityaS54830043
+            
 
