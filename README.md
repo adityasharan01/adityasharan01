@@ -2,6 +2,7 @@
 
   <img src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/Developer.gif" width="200px">
 </p>
+
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" height="40px">, I'm Aditya Sharan </h1>
 </br>
 <h2 align="center"> 👨‍💻 Front End Developer | | Transitioning into Fullstack development 🌎 </h2>
