@@ -26,7 +26,7 @@
 
 🔭 I’m currently exploring new opportunities.
 
-🌱 I’m currently learning Next.js and Node.js. 
+🌱 I’m currently learning Next.js. 
  
 👯 I’m looking to collaborate on frontend projects.
 
